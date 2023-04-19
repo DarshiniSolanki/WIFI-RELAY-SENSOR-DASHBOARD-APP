@@ -3,3 +3,4 @@ The Internet of Things system consists of gadgets and items with sensors. This s
 Workspace – Visual Studio Code.        
 Languages used - Arduino IDE, Chartjs
 [Report.pdf](https://github.com/DarshiniSolanki/WIFI-RELAY-SENSOR-DASHBOARD-APP/files/11274351/Report.pdf)
+[PPT.pdf](https://github.com/DarshiniSolanki/WIFI-RELAY-SENSOR-DASHBOARD-APP/files/11274571/PPT.pdf)
